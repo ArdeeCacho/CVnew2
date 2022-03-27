@@ -1,0 +1,36 @@
+body{
+    width:auto;
+    height:970px;
+}
+.container{
+    margin-top: 50px;
+    
+}
+nav{
+    padding-left: 100px;
+}
+
+span{
+    
+    color:rgb(66, 55, 55);
+    font-weight: bold;
+    display: inline-block;
+ 
+}
+span:hover{
+    
+    color:white;
+}
+ .img-box{
+    margin-bottom: 30px;
+}
+.name{
+    font-size: small;
+}
+footer{
+    margin-top: 300px;
+}
+iframe{
+    margin-bottom: 50px;
+}
+
